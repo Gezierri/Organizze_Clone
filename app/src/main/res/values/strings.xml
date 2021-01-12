@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Organizze</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_intro_1">Organize suas contas de onde estiver</string>
+    <string name="txt_intro_1_2">Simple, fácil de usar e grátis</string>
+    <string name="txt_intro_2_1">Saiba para onde está indo seu dinheiro</string>
+    <string name="txt_intro_2_2">Categorizando seus lançamentos e vendo o destino de cada centavo</string>
+    <string name="txt_intro_3_1">Nunca mais esqueça de pagar uma conta</string>
+    <string name="txt_intro_3_2">Receba alertas quando quiser</string>
+    <string name="txt_intro_4_1">Tudo organizado, no seu celular ou computador</string>
+    <string name="txt_intro_4_2">Use no seu smartphone e acessando o Organizze pelo site</string>
+    <string name="img_intro1">imagem1</string>
+    <string name="img_intro3">imagem_3</string>
+    <string name="txtLogin_criar_conta">Crie sua conta grátis</string>
+    <string name="txtLogin_Junte">Junte-se a mais de meio milhão de pessoas e comece já</string>
+    <string name="cadastrar">Cadastre-se</string>
+    <string name="btnCadastro">Cadastre-se</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="btnLogar">Login</string>
+    <string name="hint_Valor">R$ 00,00</string>
+    <string name="hint_ex_data">Ex: 19/10/2019</string>
+    <string name="hint_ex_categoria">ex: Casa</string>
+    <string name="hint_ex_descricao">ex: conta de luz</string>
+    <string name="hint_ex_descricao_receita">ex: salário mensal</string>
+    <string name="hint_ex_categoria_receita">Salário</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
